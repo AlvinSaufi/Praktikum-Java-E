@@ -4,7 +4,6 @@ import javax.swing.*;
 import java.util.Scanner;
 
 public class BelajarInput {
-}
     public static void main(String[] args) {
 
     String namaLengkap; // null
@@ -15,6 +14,5 @@ public class BelajarInput {
 
         JOptionPane.showMessageDialog(
                 null, "Hallo "+namaLengkap, "Informasi", JOptionPane.INFORMATION_MESSAGE);
-        );
     }
 }
